@@ -135,6 +135,6 @@ nav {
 
 /* footer */
 
-p {
+footer >p {
   display: inline;
 }
